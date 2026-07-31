@@ -141,5 +141,6 @@ a.  Describe how each data structure identified in H1 is different from the data
 I.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 
 J.  Demonstrate professional communication in the content and presentation of your submission.
+
 [C950 Task 1.docx](https://github.com/user-attachments/files/30567936/C950.Task.1.docx)
 [C950 Task 2.docx](https://github.com/user-attachments/files/30567945/C950.Task.2.docx)
